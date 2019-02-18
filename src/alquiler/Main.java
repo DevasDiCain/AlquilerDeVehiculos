@@ -49,6 +49,9 @@ public class Main {
         e1.generarVehiculosAlea();
         e1.imprimirVehiculos();
         e1.ordenarVehiculos();
+        
+        
+        
     }
     
 }
